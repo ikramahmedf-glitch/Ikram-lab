@@ -185,8 +185,8 @@ const projectsData =[
         icon:"bx bx-code-alt",
         status:"completed",
         tech:["HTML","CSS","Javascript"],
-        github:"",
-        liveDemo:""
+        github:"https://github.com/ikramahmedf-glitch/ikram-lab",
+        liveDemo:"https://ikramahmedf-glitch.github.io/Ikram-lab/"
 
     },
     {
